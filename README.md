@@ -10,7 +10,6 @@ For learning purpose only!
 [...]
 
 #include <string>
-#include "CBHL.hpp"
 #include "CBEDS.hpp"
 
 CBEDS::Encrypt E;
